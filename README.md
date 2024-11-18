@@ -18,14 +18,18 @@ animal_name  hair  feathers  eggs  milk  airborne  aquatic  predator  toothed  b
 ```
 
 ### Mapping from `class.csv`
-```
- Class_Number  Number_Of_Animal_Species_In_Class Class_Type                                                                                                                                                                                                                                                                                                                        Animal_Names
-            1                                 41     Mammal aardvark, antelope, bear, boar, buffalo, calf, cavy, cheetah, deer, dolphin, elephant, fruitbat, giraffe, girl, goat, gorilla, hamster, hare, leopard, lion, lynx, mink, mole, mongoose, opossum, oryx, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, seal, sealion, squirrel, vampire, vole, wallaby, wolf
-            2                                 20       Bird                                                                                                                                                                                chicken, crow, dove, duck, flamingo, gull, hawk, kiwi, lark, ostrich, parakeet, penguin, pheasant, rhea, skimmer, skua, sparrow, swan, vulture, wren
-            3                                  5    Reptile                                                                                                                                                                                                                                                                                     pitviper, seasnake, slowworm, tortoise, tuatara
-            4                                 13       Fish                                                                                                                                                                                                                                 bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna
-            5                                  4  Amphibian                                                                                                                                                                                                                                                                                                              frog, frog, newt, toad
-```
+
+Below is the mapping of class numbers to animal categories, along with the number of species in each category and examples of animals belonging to that category.
+
+| Class Number | Class Type   | Number of Species | Example Animal Names                        |
+|--------------|--------------|-------------------|---------------------------------------------|
+| 1            | Mammal       | 41                | aardvark, antelope, bear, boar, buffalo, ...|
+| 2            | Bird         | 20                | chicken, crow, dove, duck, flamingo, ...    |
+| 3            | Reptile      | 5                 | pitviper, seasnake, slowworm, tortoise, ... | 
+| 4            | Fish         | 13                | bass, carp, catfish, chub, dogfish, ...     |
+| 5            | Amphibian    | 4                 | frog, frog, newt, toad                      |
+| 6            | Bug          | 8                 | flea, gnat, honeybee, moth, ...             | 
+| 7            | Invertebrate | 10                | clam, crab, lobster, octopus, ...           | 
 
 ---
 
