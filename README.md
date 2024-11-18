@@ -68,7 +68,7 @@ animal_name  hair  feathers  eggs  milk  airborne  aquatic  predator  toothed  b
 - `naive_bayes_implementation.ipynb`: Jupyter Notebook with the implementation.
 - `zoo.csv`: Main dataset containing animal features.
 - `class.csv`: Mapping of `class_type` to animal categories.
-- `sample_out.csv`: Example of the expected output format.
+- `output.csv`: Example of the expected output format.
 
 ---
 
