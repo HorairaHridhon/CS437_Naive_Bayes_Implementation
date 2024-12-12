@@ -1,6 +1,6 @@
-# Naïve Bayes Classifier: Zoo Dataset
+# Naive Bayes Classifier: Zoo Dataset
 
-This project is an implementation of a Bernoulli Naïve Bayes Classifier applied to a dataset of animals with their features. The goal is to classify animals into one of seven categories (e.g., mammal, bird, reptile) based on their binary and categorical features.
+This project is an implementation of a Bernoulli Naive Bayes Classifier applied to a dataset of animals with their features. The goal is to classify animals into one of seven categories (e.g., mammal, bird, reptile) based on their binary and categorical features.
 
 ---
 
